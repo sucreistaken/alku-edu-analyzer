@@ -23,7 +23,7 @@ Alanya Alaaddin Keykubat Universitesi (ALKU) ogrencileri icin gelistirilmis ders
 ## Kurulum
 
 ```bash
-cd ieu-eduanalyzer
+cd alku-edu-analyzer
 npm install
 npm run dev
 ```
@@ -39,7 +39,7 @@ npm run build
 ## Proje Yapisi
 
 ```
-ieu-eduanalyzer/
+alku-edu-analyzer/
 ├── src/
 │   ├── components/
 │   │   ├── CourseStats.tsx        # Istatistik kartlari
